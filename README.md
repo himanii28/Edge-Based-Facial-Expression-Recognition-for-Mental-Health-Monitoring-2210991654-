@@ -7,7 +7,7 @@
 
 ## Project Details
 
-*   **Repository Name:** Edge-Based-Facial-Expression-Recognition-for-Mental-Health-Monitoring-2210991654-
+*   **Repository Name:** Edge-Based-Facial-Expression-Recognition-for-Mental-Health-Monitoring
 *   **Roll Number:** 2210991654
 *   **Name:** Himanshi
 *   **Project Title:** Edge-Based Facial Expression Recognition for Mental Health Monitoring
