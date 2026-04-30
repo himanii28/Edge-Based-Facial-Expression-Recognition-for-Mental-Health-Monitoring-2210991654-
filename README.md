@@ -53,3 +53,21 @@ The system pipeline consists of the following stages:
 ```bash
 git clone [https://github.com/yourusername/Edge-Based-Facial-Expression-Recognition-for-Mental-Health-Monitoring-2210991654-.git](https://github.com/yourusername/Edge-Based-Facial-Expression-Recognition-for-Mental-Health-Monitoring-2210991654-.git)
 cd Edge-Based-Facial-Expression-Recognition-for-Mental-Health-Monitoring-2210991654-
+
+
+
+Running the Inference Script
+To start the real-time facial expression recognition pipeline using your webcam, run the following command:
+
+Bash
+python inference.py
+
+What to expect:
+
+A window will open displaying your webcam feed.
+
+The system will detect faces and overlay the predicted emotion.
+
+(Optional: If implemented in your script, it will log the smoothed distress indicator to the console or a file).
+
+Press q to quit the application.
